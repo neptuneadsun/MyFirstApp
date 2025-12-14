@@ -29,7 +29,7 @@ public class t3 {
         System.out.println("Average: " + avg(1,2,3,4,5));
 
         int[] arr = {10, 20, 30};
-        System.out.println("Max: " + max(arr));   // 30
+        System.out.println("Max: " + max(arr));
         System.out.println("Min: " + min(arr));
         System.out.println("Average: " + avg(arr));
     }

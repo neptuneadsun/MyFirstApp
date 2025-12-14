@@ -11,6 +11,7 @@ public class t10 {
             if (x < min) min = x;
             if (x > max) max = x;
         }
+
         return new int[]{min, max};
     }
 
