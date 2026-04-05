@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employee>
+    <employee>
+        <FIO>Иванов Иван Иванович</FIO>
+        <work>Менеджер</work>
+    </employee>
+    <employee>
+        <FIO>Сергеев Сергей Сереевич</FIO>
+        <work>Руководитель</work>
+    </employee>
+</Employee>
