@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 public class ex3 {
     public static void main(String[] args) {
-        String string = "Напишите функции, Которая принимает на вход список * + " +
+        String string = "Напишите функции, Которая принимает на вход список " +
                 "строк и возвращает новый список, Содержащий только те строки, " +
                 "которые Начинаются с большой буквы.";
 
